@@ -1,0 +1,6 @@
+{
+  "name": "Unblocked Games Hub",
+  "description": "A responsive collection of retro browser games, including Space Invaders, Brick Breaker, Snake, and Flappy Bird, with full keyboard support and 8-bit sound effects.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
